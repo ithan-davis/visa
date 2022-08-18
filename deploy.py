@@ -3,4 +3,5 @@
 #= shell scripts
 #python('Hello World')
 #= python script    
-print('Hello World') 
+print('Hello World')
+print('deploy in the dev env')
